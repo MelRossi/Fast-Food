@@ -1,4 +1,4 @@
-# Fast-Food
+# 💻 Proyecto Integrador: Fast Food
 
 Sistema de Gestión de Datos y Consultas SQL para una Cadena de Comida Rápida
 
